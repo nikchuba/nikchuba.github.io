@@ -7,7 +7,7 @@ const RESOURCES = {
 "assets/assets/truck_trailer.jpg": "fc9f68d3b4d4cf17e6f2b7f11526fde2",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "df4ea9fe3c1351646e1e03b0b4423028",
+"assets/NOTICES": "5befef7a8345d7b58d56149385d696b2",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/shaders/ink_sparkle.frag": "6333b551ea27fd9d8e1271e92def26a9",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
@@ -20,10 +20,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "f868d7dafc0a0a319cb1fed63f14f2ba",
-"/": "f868d7dafc0a0a319cb1fed63f14f2ba",
-"main.dart.js": "96e73c5dd5cbd1c9b9bca3393b72c4e8",
+"index.html": "f578a361ed28eef33706cdd8876272cf",
+"/": "f578a361ed28eef33706cdd8876272cf",
+"main.dart.js": "ce083d91701f47d0ae516e7a0fbb6ab1",
 "manifest.json": "3f9f46d43b9a25da68f5dd4800d5ed6d",
+"package-lock.json": "7d02a5836931de07b2ecf36189bfaca0",
 "version.json": "c2a08cda2a1e690bfed5ce9fc4d9e5b1"
 };
 
